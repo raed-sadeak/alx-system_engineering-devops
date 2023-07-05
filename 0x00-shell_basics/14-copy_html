@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -un *.hrml ../
+cp -un *.html ../
